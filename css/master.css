@@ -1,0 +1,10 @@
+.container {
+  display:flex;
+  justify-content: space-between;
+}
+
+.container div {
+  width:5em;
+  height:5em;
+  background:#000;
+}
