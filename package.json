@@ -1,0 +1,23 @@
+{
+  "name": "GoToTheDOM",
+  "version": "1.0.0",
+  "description": "# Tout les exercices doivent être réaliser en JS, pas touche au fichier index.html ! # Un commit par Step ( à partir de la Step 2);",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimplonCarcasonne/GototheDOM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimplonCarcasonne/GototheDOM/issues"
+  },
+  "homepage": "https://github.com/SimplonCarcasonne/GototheDOM#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
